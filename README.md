@@ -256,9 +256,9 @@ BeyondChats/
 
 ## Live Demo
 
-**Frontend:** [Add your deployed frontend URL here]
+**Frontend:** https://ai-powered-blog-updater.vercel.app
 
-**Backend API:** [Add your deployed backend URL here]
+**Backend API:** https://ai-powered-blog-updater.onrender.com/api
 
 ### Deployment Options
 
