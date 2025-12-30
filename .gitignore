@@ -1,0 +1,36 @@
+# Backend (Laravel)
+backend/vendor/
+backend/.env
+backend/storage/*.key
+backend/storage/framework/cache/*
+backend/storage/framework/sessions/*
+backend/storage/framework/views/*
+backend/storage/logs/*
+backend/bootstrap/cache/*
+backend/.phpunit.result.cache
+
+# Article Enhancer (Node.js)
+article-enhancer/node_modules/
+article-enhancer/.env
+
+# Frontend (React)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Task PDF (not needed in repo)
+Task.pdf
