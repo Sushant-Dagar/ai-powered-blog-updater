@@ -2,6 +2,8 @@
 
 A full-stack application that scrapes articles from BeyondChats blog, enhances them using AI, and displays both original and enhanced versions.
 
+### [Live Demo](https://ai-powered-blog-updater.vercel.app) | [API](https://ai-powered-blog-updater.onrender.com/api/articles)
+
 ## Project Overview
 
 This project consists of three main components:
